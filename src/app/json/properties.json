@@ -1,0 +1,73 @@
+[
+    {
+        "id": "1",
+        "image": "/one.jpeg",
+        "title": "Project Planning & Strategy",
+        "description": "We specialize in creating comprehensive project plans tailored to your unique needs. From defining objectives to setting timelines and allocating resources, our strategic approach ensures your project starts on the right foot.",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "typeOfBuilding": "Villa",
+        "price": 5000
+    },
+    {
+        "id": "2",
+        "image": "/two.jpeg",
+        "title": "Agile Project Management",
+        "description": "Embrace the power of Agile methodology to drive iterative improvements and adapt to changing requirements. Our certified Agile experts guide your team through sprints, ensuring continuous progress and quality delivery.",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "typeOfBuilding": "Villa",
+        "price": 5000
+    },
+    {
+        "id": "3",
+        "image": "/three.webp",
+        "title": "IT Project Management",
+        "description": "Technology projects require precision and expertise. We provide end-to-end IT project management, ensuring that software development, system integrations, and digital transformations are executed flawlessly.",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "typeOfBuilding": "Villa",
+        "price": 5000
+    },
+    {
+        "id": "4",
+        "image": "/four.jpeg",
+        "title": "Construction Project Services",
+        "description": "From groundbreaking to grand openings, our construction project management services cover every phase of development. We handle scheduling, budgeting, safety compliance, and more to keep your project on track.",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "typeOfBuilding": "Villa",
+        "price": 5000
+    },
+    {
+        "id": "5",
+        "image": "/five.jpeg",
+        "title": "Custom Project Solutions",
+        "description": "No two projects are the same, and neither are our solutions. We work closely with you to design and deliver services that align perfectly with your specific goals and industry requirements.",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "typeOfBuilding": "5",
+        "price": 5000
+    },
+    {
+        "id": "6",
+        "image": "/six.jpeg",
+        "title": "Risk Management & Mitigation",
+        "description": "Identify potential risks before they become roadblocks. Our proactive risk management strategies help safeguard your project’s success by addressing uncertainties head-on.",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "typeOfBuilding": "Villa",
+        "price": 5000
+    },
+    {
+        "id": "7",
+        "image": "/seven.webp",
+        "title": "Training & Workshops",
+        "description": "We provide training sessions and workshops to enhance your team’s project management skills, ensuring that they are equipped to handle future challenges independently.",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "typeOfBuilding": "Villa",
+        "price": 5000
+    }
+    
+]

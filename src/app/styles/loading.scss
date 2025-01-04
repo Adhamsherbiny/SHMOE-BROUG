@@ -1,0 +1,41 @@
+@use "./main.scss" as *;
+
+.loading {
+  user-select: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: $background-color;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10000;
+  .loader {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    .logo {
+      display: flex;
+      opacity: 0;
+      .icon {
+        width: 35px;
+        height: 35px;
+        color: $main-color;
+        margin-right: 5px;
+      }
+      h1 {
+        color: $main-color;
+        font-weight: bold;
+        font-size: 26px;
+        letter-spacing: 1px;
+      }
+    }
+    p {
+      color: $text-color;
+      opacity: 0;
+    }
+  }
+}

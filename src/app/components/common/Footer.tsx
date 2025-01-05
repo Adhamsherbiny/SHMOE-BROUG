@@ -4,6 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faClipboard,
   faEnvelope,
+  faLocationDot,
   faPhone,
 } from "@fortawesome/free-solid-svg-icons";
 
@@ -22,7 +23,11 @@ export default function Footer() {
         </a>
         <a href="mailto:Email:Broug2024@gmail.com">
           <FontAwesomeIcon icon={faEnvelope} />
-          Email:Broug2024@gmail.com
+          Broug2024@gmail.com
+        </a>
+        <a href="mailto:Email:Broug2024@gmail.com">
+          <FontAwesomeIcon icon={faLocationDot} />
+          Dubai
         </a>
         <a className="license">
           <FontAwesomeIcon icon={faClipboard} />

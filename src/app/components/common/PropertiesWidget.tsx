@@ -30,10 +30,10 @@ export default function PropertiesWidget(props: PrpertieesWidgetTypes) {
         </div>
       </div> */}
       <div className="actions">
-        <div className="price-tag">
+        {/* <div className="price-tag">
           <p className="price">Price</p>
           <p className="currency">{props.price}</p>
-        </div>
+        </div> */}
         {/* <button className="action-btn">View Property Details</button> */}
       </div>
     </div>

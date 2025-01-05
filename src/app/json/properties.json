@@ -21,7 +21,7 @@
     },
     {
         "id": "3",
-        "image": "/three.webp",
+        "image": "/three.jpeg",
         "title": "IT Project Management",
         "description": "Technology projects require precision and expertise. We provide end-to-end IT project management, ensuring that software development, system integrations, and digital transformations are executed flawlessly.",
         "bedrooms": 4,
@@ -61,7 +61,7 @@
     },
     {
         "id": "7",
-        "image": "/seven.webp",
+        "image": "/seven.jpeg",
         "title": "Training & Workshops",
         "description": "We provide training sessions and workshops to enhance your team’s project management skills, ensuring that they are equipped to handle future challenges independently.",
         "bedrooms": 4,

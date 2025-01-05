@@ -10,7 +10,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 1rem;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid $main-color;
     height: 65px;
     z-index: 10000;
     .logo,
@@ -90,7 +90,7 @@
     position: fixed;
     top: 0;
     background-color: $secondery-color;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid $main-color;
     display: flex;
     flex-direction: column;
     width: 100%;

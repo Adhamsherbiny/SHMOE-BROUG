@@ -23,11 +23,12 @@
 }
 
 $main-color: #0097b2;
-$secondery-color: #1a1a1a;
-$background-color: #141414;
-$text-color: #fff;
+$secondery-color: white;
+$background-color: white;
+$text-color: black;
 $container-width: 90%;
 $radius: 8px;
+// $border-color: rgb(37, 37, 37);
 $border-color: rgb(37, 37, 37);
 
 ::-webkit-scrollbar {

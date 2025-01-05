@@ -29,9 +29,9 @@ export default function Nav() {
           </li>
         </ul>
       </div>
-      <div className="contacts">
+      {/* <div className="contacts">
         <button className="active">BOOK NOW</button>
-      </div>
+      </div> */}
       <div className="menu">
         <FontAwesomeIcon
           onClick={handleToogleMenu}
